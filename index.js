@@ -1,6 +1,4 @@
-const rtl = () => {
-    return document.querySelector('body').style.direction.rtl;
-}
+const rtl = () => document.querySelector('html').style.direction = 'rtl';
 
 
 module.exports.rtl = rtl;
