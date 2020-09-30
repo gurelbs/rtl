@@ -2,6 +2,6 @@
 
 return your html right to left.
 
-# instalation
+# installation
 
 `npm i right-to-left --save`
